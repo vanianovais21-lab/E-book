@@ -14,6 +14,6 @@ Seaart.ia:
 | ---- | ------- |
 |Imagem de capa | Crie uma imagem para uma capa de ebook com tema html, com uma estrutura mais feminista estilo desenho animado sem imagem de mulheres |  
 
-
+Ferramenta de edição utilizada: Power Point
 
 
