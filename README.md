@@ -1,2 +1,2 @@
-# Ebbok
+# Ebook
 Ebook criado com  IA
